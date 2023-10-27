@@ -4,32 +4,37 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Для кого этот ресурс?',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Наша документация по системному администрированию - 
+        полезный ресурс для всех уровней опыта в администрировании информационных систем. 
+        Мы акцентируемся на простоте и удобстве использования данного руководства, 
+        чтобы облегчить работу с технологическими задачами.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'О чем эта документация?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Документация по системному администрированию содержит четкие и 
+        практические примеры Linux, которые помогают развивать навыки системных администраторов 
+        и решать сложные задачи. Она является незаменимым источником информации для профессионалов, 
+        стремящихся стать успешными системными администраторами.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Связаться со мной',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        E-mail: kligann@subnetwork.ru
+        tg: @kliganN
+        Steam: BarrySeal1939
       </>
     ),
   },
