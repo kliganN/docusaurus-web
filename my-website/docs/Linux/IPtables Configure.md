@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 
-# IPtables. Configure.
+# IPtables. Configure
 
 ## Управление правилами iptables в Linux
 

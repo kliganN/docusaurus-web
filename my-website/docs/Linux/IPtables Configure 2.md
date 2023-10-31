@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# IPtables. Configure-2.
+# IPtables. Configure-2
 
 ## Управление правилами iptables в Linux
 
