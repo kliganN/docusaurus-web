@@ -1,0 +1,8 @@
+{
+  "label": "Ansible",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Документация с примерами по Ansible"
+  }
+}
