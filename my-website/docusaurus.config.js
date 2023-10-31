@@ -100,7 +100,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'My YouTube',
                 href: 'https://youtube.com/onlyhehe2k10',
               },
               {
@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/kliganN',
               },
             ],
           },
