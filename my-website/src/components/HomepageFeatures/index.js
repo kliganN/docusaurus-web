@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Explore new ways',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_cloud_hosting_7xb1.svg').default,
     description: (
       <>
         Get started with kliganN's documentation :)
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Community documentation',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_connected_world_wuay.svg').default,
     description: (
       <>
         Understand the fundamentals of Linux, Git, Networks, Ansible and etc.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Contant me',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_dev_productivity_re_fylf.svg').default,
     description: (
       <>
         E-mail: kligann@subnetwork.ru
