@@ -4,31 +4,25 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Для кого этот ресурс?',
+    title: 'Explore new ways',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Наша документация по системному администрированию - 
-        полезный ресурс для всех уровней опыта в администрировании информационных систем. 
-        Мы акцентируемся на простоте и удобстве использования данного руководства, 
-        чтобы облегчить работу с технологическими задачами.
+        Get started with kliganN's documentation :)
       </>
     ),
   },
   {
-    title: 'О чем эта документация?',
+    title: 'Community documentation',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Документация по системному администрированию содержит четкие и 
-        практические примеры Linux, которые помогают развивать навыки системных администраторов 
-        и решать сложные задачи. Она является незаменимым источником информации для профессионалов, 
-        стремящихся стать успешными системными администраторами.
+        Understand the fundamentals of Linux, Git, Networks, Ansible and etc.
       </>
     ),
   },
   {
-    title: 'Связаться со мной',
+    title: 'Contant me',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
