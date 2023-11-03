@@ -142,3 +142,4 @@ docker-compose up -d
 [Docker](https://hub.docker.com/r/linuxserver/qbittorrent)
 
 Теперь вы можете добавлять медиафайлы в папку `/jellyfin-media` на сервере, которые будут автоматически распознаваться и добавляться в библиотеку Jellyfin, а также загружать торрент-файлы в папку `/jellyfin-media` на сервере, которые будут автоматически обрабатываться qBittorrent.
+---
